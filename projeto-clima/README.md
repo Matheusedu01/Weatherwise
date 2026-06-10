@@ -1,22 +1,22 @@
-# 🌤️ WeatherWise - Seu guia inteligente de clima e moda
+# WeatherWise - Seu guia inteligente de clima e moda
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/seu-badge/deploy-status)](https://app.netlify.com/sites/seu-site/deploys)
 
-## 🎯 Sobre o projeto
+# Sobre o projeto
 WeatherWise é uma aplicação web que vai além da previsão do tempo. Ela **recomenda roupas e atividades** baseadas nas condições climáticas atuais, ajudando você a se preparar melhor para o dia.
 
-## ✨ Funcionalidades Premium
+##  Funcionalidades Premium
 
 ### Principais
-- 🔍 Busca por qualquer cidade do mundo
-- 🌡️ Temperatura atual, sensação térmica, umidade e vento
-- 👘 **Recomendação inteligente de roupas** (baseada em temperatura + umidade)
-- 📍 **Sugestão de atividades** (considera clima e temperatura)
-- 📅 Previsão para 5 dias
-- 🎨 Tema escuro/claro automático
-- 💾 Histórico das últimas 5 cidades
-- 🌈 Background dinâmico que muda conforme o clima
-- 📤 Compartilhamento via WhatsApp
+-  Busca por qualquer cidade do mundo
+-  Temperatura atual, sensação térmica, umidade e vento
+-  **Recomendação inteligente de roupas** (baseada em temperatura + umidade)
+-  **Sugestão de atividades** (considera clima e temperatura)
+-  Previsão para 5 dias
+-  Tema escuro/claro automático
+-  Histórico das últimas 5 cidades
+-  Background dinâmico que muda conforme o clima
+-  Compartilhamento via WhatsApp
 
 ### Diferenciais técnicos
 - ✅ Design responsivo (mobile-first)
@@ -31,7 +31,7 @@ WeatherWise é uma aplicação web que vai além da previsão do tempo. Ela **re
 - **JavaScript ES6+** - Async/Await, Fetch API, LocalStorage
 - **OpenWeatherMap API** - Dados climáticos em tempo real
 
-## 📦 Como executar o projeto
+##  Como executar o projeto
 
 ### Pré-requisitos
 - Navegador moderno (Chrome, Firefox, Edge)
