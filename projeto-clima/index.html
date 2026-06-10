@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meteoroloucos - O que vestir hoje</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <button id="themeToggle" class="theme-btn">🌙 Modo Escuro</button>
+        
+        <div class="container">
+            <h1>🌤️ Meteoroloucos</h1>
+            <p class="subtitle">O que vestir e fazer hoje?</p>
+            
+            <div class="search-section">
+                <div class="search-box">
+                    <input type="text" id="cityInput" placeholder="Digite sua cidade" value="São Paulo">
+                    <button id="searchBtn">🔍 Buscar</button>
+                </div>
+                <div class="saved-cities">
+                    <span>📌 Cidades recentes:</span>
+                    <div id="recentCities"></div>
+                </div>
+            </div>
+
+            <div id="weatherResult"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
