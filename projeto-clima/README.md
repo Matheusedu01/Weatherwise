@@ -25,7 +25,7 @@ WeatherWise é uma aplicação web que vai além da previsão do tempo. Ela **re
 - ✅ Tratamento de erros robusto
 - ✅ Código comentado e organizado
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 - **HTML5** - Estrutura semântica
 - **CSS3** - Flexbox, Grid, Variáveis CSS, Keyframes
 - **JavaScript ES6+** - Async/Await, Fetch API, LocalStorage
