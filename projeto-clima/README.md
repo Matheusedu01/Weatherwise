@@ -40,4 +40,4 @@ WeatherWise é uma aplicação web que vai além da previsão do tempo. Ela **re
 ### Passo a passo
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/weatherwise.git
+git clone https://github.com/Matheusedu01/weatherwise.git
